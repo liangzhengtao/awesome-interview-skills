@@ -63,7 +63,7 @@ Year 2+ TC = $200K + $100K + $30K = $330K
 ```
 □ 确定目标薪资范围 (min, target, max)
 □ 研究目标公司的薪资水平 (levels.fyi)
-□ 了解自己的 leverage (其他 offer? 市场稀缺度?)
+□ 了解自己的 use (其他 offer? 市场稀缺度?)
 □ 准备好 "walk away number" (低于这个数不接受)
 ```
 
