@@ -146,7 +146,7 @@ What problem does this solve? Why does it matter?
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/liangzhengtao/project-name.git
 cd project-name
 
 # Install dependencies
